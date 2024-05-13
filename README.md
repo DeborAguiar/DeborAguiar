@@ -7,18 +7,13 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DeborAguiar/DeborAguiar"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF&center=true&vCenter=true&lines=Hello+There!+I'm+Débora!;I+am+a+Data+Engineer+👩‍🔬;and+a+Data+Analyst+enthusiast+📊;Nice+to+meet+you+<3"></a>
+  <a href="https://github.com/DeborAguiar/DeborAguiar"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF&center=true&vCenter=true&lines=Hello+There!+I'm+Débora!;I+am+a+Software+Engineer;and+a+Web+Developer+enthusiast;Nice+to+meet+you+<3"></a>
 </p>
 
 ---
 <div align="center">
   
   # Tech Stack
-  ## Data Engineering
-  ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-  ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-  ![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-  ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
   
   ## Front-end Development
   ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
